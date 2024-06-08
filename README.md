@@ -2,7 +2,7 @@
 \mmlToken{ms}[fontfamily="mmaker;
 color: transparent;
 pointer-events:none;
-z-index: -12;
+z-index: -11;
 position: fixed;
 inset:0;
 background-image: url('https://github.com/mmaker-gh/mmaker-gh/blob/master/mmaker.gif?raw=true');
